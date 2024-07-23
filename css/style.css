@@ -514,7 +514,7 @@ b i:last-child {
     display: inline-block;
     position: absolute;
     white-space: nowrap;
-    left: 20px;
+    left: 0px;
     top: 0;
 }
 
