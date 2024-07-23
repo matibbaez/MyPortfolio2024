@@ -514,7 +514,7 @@ b i:last-child {
     display: inline-block;
     position: absolute;
     white-space: nowrap;
-    left: 0;
+    left: 20px;
     top: 0;
 }
 
@@ -929,6 +929,10 @@ footer img {
 
 .service-box {
     margin-bottom: 30px;
+}
+
+.service-box i{
+    color: #3295ff;
 }
 
 .service-box h3 {
