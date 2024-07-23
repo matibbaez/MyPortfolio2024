@@ -427,8 +427,8 @@ b i:last-child {
 
 .mouse {
     position: absolute;
-    width: 22px;
-    height: 42px;
+    width: 15px;
+    height: 30px;
     bottom: 40px;
     left: 50%;
     margin-left: -12px;
