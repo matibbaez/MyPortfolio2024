@@ -31,6 +31,11 @@ body {
     text-decoration: none;
 }
 
+.main-container .resume a:hover h5 {
+    color: #7a7a7a; /* Puedes ajustar este valor para el gris más claro que prefieras */
+    transition: all .3s
+}
+
 .center {
     text-align: center;
 }
